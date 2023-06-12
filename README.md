@@ -28,7 +28,7 @@ Before running the project, make sure you have Flutter installed and setup in yo
 2. Navigate into the cloned directory.
 3. Run `flutter pub get` to fetch the dependencies.
 4. Make sure you have a device (physical or virtual) running.
-5. Create a `config.json` file in the root and pass the `API_KEY` value.
+5. Place a `config.json` file in the root of the project.
 6. Run `flutter run --dart-define-from-file=config.json`.
 
 Enjoy browsing photos from Mars!
