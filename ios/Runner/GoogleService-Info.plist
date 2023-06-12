@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>114930788070-t6hi56f9paq1ovk4pvl0gato3kh33lg9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.114930788070-t6hi56f9paq1ovk4pvl0gato3kh33lg9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1GOSfRnziC4SG3faoZsz0yRZ7owrwpVE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>114930788070</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.creativeFabrica</string>
+	<key>PROJECT_ID</key>
+	<string>creativefabricanasaapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>creativefabricanasaapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:114930788070:ios:aa1c4857e53ebbdb34fd27</string>
+</dict>
+</plist>
